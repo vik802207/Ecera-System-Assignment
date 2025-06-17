@@ -94,7 +94,9 @@ npm start
 ![image](https://github.com/vik802207/Ecera-System-Assignment/blob/main/img/Screenshot%20(518).png)
 ![image](https://github.com/vik802207/Ecera-System-Assignment/blob/main/img/Screenshot%20(519).png)
 
+## 📹 Demo Video
 
+🎥 [Click here to watch the demo](https://drive.google.com/file/d/15NSoMenKDbMRUpaY5zo1F68e4HAQ7t26/view?usp=drive_link)
 
 ## 🧠 Future Improvements
 
