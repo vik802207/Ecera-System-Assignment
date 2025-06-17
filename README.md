@@ -80,6 +80,7 @@ node server.js
 # Install frontend dependencies
 npm install
 npm start
+```
 
 ## Screenshot
 ![image](https://github.com/user-attachments/assets/d104ded8-8dc0-47d1-b483-64decd128a4a)
