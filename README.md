@@ -112,7 +112,8 @@ npm start
 
 **Vikash Gupta**  
 MERN Developer | 7th Semester, IIITN  
-🌐 [Connect on LinkedIn](https://www.linkedin.com/in/your-link-here)  
+🌐 [Connect on LinkedIn](https://www.linkedin.com/in/vikash-gupta-4734bb252/)  
+vikashg802207@gmail.com
 📫 Feel free to reach out for collaboration or feedback!
 
 
