@@ -83,7 +83,16 @@ npm start
 ```
 
 ## Screenshot
-![image](https://github.com/user-attachments/assets/d104ded8-8dc0-47d1-b483-64decd128a4a)
+![image](https://github.com/vik802207/Ecera-System-Assignment/blob/main/img/Screenshot%20(510).png)
+![image](https://github.com/vik802207/Ecera-System-Assignment/blob/main/img/Screenshot%20(511).png)
+![image](https://github.com/vik802207/Ecera-System-Assignment/blob/main/img/Screenshot%20(512).png)
+![image](https://github.com/vik802207/Ecera-System-Assignment/blob/main/img/Screenshot%20(513).png)
+![image](https://github.com/vik802207/Ecera-System-Assignment/blob/main/img/Screenshot%20(514).png)
+![image](https://github.com/vik802207/Ecera-System-Assignment/blob/main/img/Screenshot%20(515).png)
+![image](https://github.com/vik802207/Ecera-System-Assignment/blob/main/img/Screenshot%20(516).png)
+## Database
+![image](https://github.com/vik802207/Ecera-System-Assignment/blob/main/img/Screenshot%20(518).png)
+![image](https://github.com/vik802207/Ecera-System-Assignment/blob/main/img/Screenshot%20(519).png)
 
 
 
